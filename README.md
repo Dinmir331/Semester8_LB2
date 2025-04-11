@@ -76,7 +76,9 @@
 
 &ensp; Результат нахождения ключевых точек выглядит следующим образом:
 
-![alt text](Images4show/LB2_IMAGE_points.png)
+![alt text](Images4show/LB2_IMAGE1_points.png)
+
+![alt text](Images4show/LB2_IMAGE2_points.png)
 
 ---
 
